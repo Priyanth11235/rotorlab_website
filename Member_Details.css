@@ -1,0 +1,78 @@
+body {
+    color: #666666;
+    background-color: #f9f8f6;
+    background-position: center;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.wrapper {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 1023px;
+    background-color: #E9EBEF;
+    border: 2px solid #000000;
+    margin: 0;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.sidenav {
+    float: left;
+    width: 200px;
+    position: relative;
+    z-index: 1;
+    left: 0;
+    padding-right: 20px;
+    padding-left: 10px;
+    background-color: #292E3B;
+    overflow-x: hidden;
+    padding-top: 5px;
+    top: 0px;
+    height: 100vmax;
+}
+
+.sidenav a {
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    text-decoration: none;
+    font-size: 15px;
+    color: #818181;
+    display: block;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+#flix {
+    position: relative;
+    top: 13px;
+    left: 50px;
+    height: 166.5px; 
+    width: 129.5px;
+    float: left;
+}
+
+p {
+    position: relative;
+    font-size: 15px;
+    line-height: 20px;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+#tix {
+    position: relative;
+    top: 50px;
+}
+
+li {
+    position: relative;
+    margin: 10px;
+    font-size: 15px;
+    width: 700px;
+    text-align: justify;
+    line-height: 20px;
+    font-family: 'Noto Sans', sans-serif;
+}
