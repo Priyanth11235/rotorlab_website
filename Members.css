@@ -56,13 +56,12 @@ body {
 #nit {
     position: relative;
     left: 23px;
-    font-family: 'Noto Sans', sans-serif;
 }
 
 #pic {
     height: 166.5px; 
     width: 129.5px; 
-    border: 2px solid;
+    border: 1px solid;
 }
 
 #tic {
@@ -73,7 +72,8 @@ body {
 
 figcaption {
     position: relative;
-    font-size: 13pt;
+    font-size: 11pt;
+    font-weight: normal;
 }
 
 #vl {
@@ -82,4 +82,10 @@ figcaption {
     left: 225px;
     border-left: 1px solid green;
     height: 10000px;
+}
+
+#nim {
+    position: relative;
+    left: 23px;
+    font-family: 'Noto Sans', sans-serif;
 }
