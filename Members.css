@@ -61,7 +61,7 @@ body {
 #pic {
     height: 166.5px; 
     width: 129.5px; 
-    border: 2px solid;
+    border: 1px solid;
 }
 
 #tic {
@@ -72,7 +72,8 @@ body {
 
 figcaption {
     position: relative;
-    font-size: 13pt;
+    font-size: 11pt;
+    font-weight: normal;
 }
 
 #vl {
