@@ -56,7 +56,6 @@ body {
 #nit {
     position: relative;
     left: 23px;
-    font-family: 'Noto Sans', sans-serif;
 }
 
 #pic {
@@ -82,4 +81,10 @@ figcaption {
     left: 225px;
     border-left: 1px solid green;
     height: 10000px;
+}
+
+#nim {
+    position: relative;
+    left: 23px;
+    font-family: 'Noto Sans', sans-serif;
 }

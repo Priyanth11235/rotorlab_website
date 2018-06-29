@@ -53,11 +53,12 @@ body {
     height: 166.5px; 
     width: 129.5px;
     float: left;
+    border: 1px solid #000000;
 }
 
 p {
     position: relative;
-    font-size: 15px;
+    font-size: 14px;
     line-height: 20px;
     font-family: 'Noto Sans', sans-serif;
 }
@@ -70,7 +71,7 @@ p {
 li {
     position: relative;
     margin: 10px;
-    font-size: 15px;
+    font-size: 14px;
     width: 700px;
     text-align: justify;
     line-height: 20px;
