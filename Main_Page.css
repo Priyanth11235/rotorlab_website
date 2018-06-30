@@ -5,7 +5,6 @@ body {
     font-family: 'Noto Sans', sans-serif;
 }
 
-
 .wrapper {
     position: absolute;
     left: 0;
@@ -33,9 +32,9 @@ body {
 }
 
 .sidenav a {
-    padding-top: 20px;
+    padding-top: 21px;
     padding-left: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 11px;
     padding-right: 20px;
     text-decoration: none;
     font-size: 15px;
