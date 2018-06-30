@@ -1,23 +1,15 @@
-Akshay Ramachandran:
-B.Tech, M.S. field unknown + Image not in required aspect ratio.
+Akshay
+- B.Tech, M.S. field unknown
+- Image does not have the required aspect ratio
 
-Ryan Abraham:
-Duration of degrees incomplete + Aerodynamics in M.Tech (Aerodynamics) required?
+Ryan
+- End Year of B.E. and M.Tech unknown
 
-Nikhil Gupta:
-Research Interests format questionably different from others.
+G D Sunil
+- Image does not have the required aspect ratio
 
-Rohith M:
-One too many commas required in B. Tech college.
+Ramanujam
+- PhD in IITM not specified under Education
 
-G D Sunil:
-Image not in required aspect ratio.
-
-Vellingiri Ramanujam R:
-Inconsistency under Education(No IITM).
-
-R Sandeepkumar:
-Image not in required aspect ratio.
-
-G Navneeth:
-Absence of a bachelor's degree.(Masters and M.Tech?)
+Sandeep
+- Image does not have the required aspect ratio 
