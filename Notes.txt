@@ -8,7 +8,3 @@ Ramanujam
 - PhD in IITM not specified under Education
 
 
-Possible captions for slide images
-1. An in-house designed and built Flight Controller for generic multi-rotor RC aircraft being tested
-2. Renderings of quadrotors designed by students
-3. A Solar powered aircraft prepares to take flight
