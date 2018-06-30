@@ -7,6 +7,8 @@ Ryan
 Ramanujam
 - PhD in IITM not specified under Education
 
+Issues
+Navneeth's profile link appears to be broken
 
 Possible captions for slide images
 1. An in-house designed and built Flight Controller for generic multi-rotor RC aircraft being tested
