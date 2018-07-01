@@ -62,7 +62,7 @@ body {
 
 p {
     position: relative; 
-    width: 90%; 
+    max-width: 950px; 
     left: 30px; 
     top: -3px; 
     text-align: justify;
