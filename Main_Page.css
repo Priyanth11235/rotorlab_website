@@ -48,22 +48,22 @@ body {
 
 #dix {
 	position: relative;
-	top: 360px;
+	top: 345px;
 	right: -20px;
 	font-size: 15px;
   text-align: justify;
   font-family: 'Noto Sans', sans-serif;
-  max-width: 970px;
+  max-width: 977px;
 }
 
 figure {
 	position: relative;
 	float: left;
-	top: 370px;
-	height:200px; 
+	top: 355px;
+	height:164px; 
 	width:335px;
-    margin-right: 0;
-    margin-left: 20;
+  margin-right: 0;
+  margin-left: 20;
 }
 
 * {box-sizing:border-box}
