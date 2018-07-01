@@ -78,6 +78,7 @@ figure {
 /* Hide the images by default */
 .mySlides {
     display: none;
+    top: 2px;
 }
 
 
@@ -88,7 +89,7 @@ figure {
   padding: 2px 0px;
   padding-bottom: 2px;
   position: absolute;
-  bottom: 5px;
+  bottom: -11px;
   width: 100%;
   text-align: center;
   background-color: #292E3B;
