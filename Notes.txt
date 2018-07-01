@@ -1,3 +1,9 @@
+Issues:
+Increase the page height in Research.
+Increase the spacing between the main heading in the Research page
+and the subheadings.
+
+
 Ryan
 - End Year of B.E. and M.Tech unknown
 
