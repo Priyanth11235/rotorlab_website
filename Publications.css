@@ -28,7 +28,7 @@ body {
     overflow-x: hidden;
     padding-top: 5px;
     top: 0px;
-    height: 100vmax;
+    height: 100000000px;
 }
 
 .sidenav a {
@@ -73,4 +73,19 @@ li {
     text-align: justify;
     line-height: 20px;
     font-family: 'Noto Sans', sans-serif;
+}
+
+td {
+    position: relative;
+    left: 29px;
+    max-width: 700px;
+    text-align: justify;
+}
+
+#vl {
+    position: absolute;
+    z-index: 3;
+    left: 233px;
+    border-left: 1px solid green;
+    height: 10000px;
 }
