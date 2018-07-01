@@ -3,11 +3,16 @@ Increase the page height in Research.
 Increase the spacing between the main heading in the Research page
 and the subheadings.
 
+01/07/2018 23:30
+Dependence on external stylesheet needs to be resolved. [Exception - Main_Page.html]
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+Current calibration of all elements is valid only in the presence of this external css file.
 
 Ryan
 - End Year of B.E. and M.Tech unknown
 
 Ramanujam
 - PhD in IITM not specified under Education
+
 
 
