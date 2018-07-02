@@ -1,0 +1,53 @@
+# deterministic slide-show
+     
+    <script>
+        var slideIndex = 0;
+		showSlides();
+
+		function showSlides() {
+		  var i;
+		  var slides = document.getElementsByClassName("mySlides");
+		  for (i = 0; i < slides.length; i++) {
+			slides[i].style.display = "none"; 
+		  }
+		  slideIndex++;
+		  if (slideIndex > slides.length) {slideIndex = 1} 
+		  slides[slideIndex-1].style.display = "block"; 
+		  setTimeout(showSlides, 5500); // Change image every 5.5 seconds
+		}
+     </script>
+
+
+# random slide-show
+
+      <script>
+		function shuffle(a) {
+			for (let i = a.length - 1; i > 0; i--) {
+				const j = Math.floor(Math.random() * (i + 1));
+				[a[i], a[j]] = [a[j], a[i]];
+			}
+			return a;
+		}
+		
+		var ids = [0,1,2,3,4,5];
+	    shuffle(ids);
+		
+        var slideIndex = 0;
+		showSlides();
+
+		function showSlides() {
+		  var i;
+		  var slides = document.getElementsByClassName("mySlides");
+		  
+		  
+		  for (i = 0; i < slides.length; i++) {
+		    let s = ids[i];
+			slides[s].style.display = "none"; 
+		  }
+		  slideIndex++;
+		  if (slideIndex > slides.length) {slideIndex = 1} 
+		  let s2 = ids[slideIndex-1];
+		  slides[s2].style.display = "block"; 
+		  setTimeout(showSlides, 5500); // Change image every 5.5 seconds
+		}
+      </script>
