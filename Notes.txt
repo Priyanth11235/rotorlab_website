@@ -11,8 +11,3 @@ Current calibration of all elements is valid only in the presence of this extern
 Ryan
 - End Year of B.E. and M.Tech unknown
 
-Ramanujam
-- PhD in IITM not specified under Education
-
-
-
