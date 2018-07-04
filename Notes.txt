@@ -11,3 +11,7 @@ Current calibration of all elements is valid only in the presence of this extern
 Ryan
 - End Year of B.E. and M.Tech unknown
 
+Comments:
+Try a different font - Open Sans
+More whitespace to improve readability
+Make sidebar static - do not move when scrolling down
