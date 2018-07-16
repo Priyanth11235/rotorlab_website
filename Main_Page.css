@@ -28,7 +28,7 @@ body {
     overflow-x: hidden;
     padding-top: 5px;
     top: 0px;
-    height: 680px;
+    height: 770px;
 }
 
 .sidenav a {
@@ -98,7 +98,7 @@ figure {
 
 #mix {
   position: absolute;
-  bottom: -50px;
+  bottom: -70px;
   font-size: 12px;
   font-family: 'Noto Sans', sans-serif;
   text-align: center;

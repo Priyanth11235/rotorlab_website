@@ -28,7 +28,9 @@ body {
     overflow-x: hidden;
     padding-top: 5px;
     top: 0px;
-    height: 250vmax; /* Controls height of wrapper. Input value in px. */
+    /* height: 250vmax;  */
+	/* Controls height of wrapper. Input value in px. */
+	height: 10000px;
 }
 
 .sidenav a {
