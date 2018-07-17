@@ -67,39 +67,24 @@
       </p>
       <p id="mix">
       Designed by Priyanth Elango<br>
-      Last Revised: 03/07/2018   
+      Last Revised: 17/07/2018   
       </p>
-      <script>
-		function shuffle(a) {
-			for (let i = a.length - 1; i > 0; i--) {
-				const j = Math.floor(Math.random() * (i + 1));
-				[a[i], a[j]] = [a[j], a[i]];
-			}
-			return a;
-		}
-		
-		var ids = [0,1,2,3,4,5];
-	    shuffle(ids);
-		
+    <script>
         var slideIndex = 0;
 		showSlides();
 
 		function showSlides() {
 		  var i;
 		  var slides = document.getElementsByClassName("mySlides");
-		  
-		  
 		  for (i = 0; i < slides.length; i++) {
-		    let s = ids[i];
-			slides[s].style.display = "none"; 
+			slides[i].style.display = "none"; 
 		  }
 		  slideIndex++;
 		  if (slideIndex > slides.length) {slideIndex = 1} 
-		  let s2 = ids[slideIndex-1];
-		  slides[s2].style.display = "block"; 
-		  setTimeout(showSlides, 5500); // Change image every 5.5 seconds
+		  slides[slideIndex-1].style.display = "block"; 
+		  setTimeout(showSlides, 4000); // Change image every 4 seconds
 		}
-      </script>
+     </script>
     </div>
   </body>
 </html>
