@@ -1,10 +1,18 @@
+To do/try:
+
+Include Bittesh's profile
+Try a different font - Open Sans
+More whitespace to improve readability
+Make sidebar static - do not move when scrolling down
+
 Issues:
-Increase the page height in Research.
-Increase the spacing between the main heading in the Research page
+
+RESOLVED Increase the page height in Research.
+RESOLVED Increase the spacing between the main heading in the Research page
 and the subheadings.
 
 01/07/2018 23:30
-Dependence on external stylesheet needs to be resolved. [Exception - Main_Page.html]
+RESOLVED Dependence on external stylesheet needs to be resolved. [Exception - Main_Page.html]
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 Current calibration of all elements is valid only in the presence of this external css file.
 
@@ -12,6 +20,5 @@ Ryan
 - End Year of B.E. and M.Tech unknown
 
 Comments:
-Try a different font - Open Sans
-More whitespace to improve readability
-Make sidebar static - do not move when scrolling down
+
+
